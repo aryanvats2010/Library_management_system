@@ -9,4 +9,4 @@ This Library Management System is developed using Java for backend operations an
 - **Student Authentication**: Includes a secure student login system to manage individual accounts and track book issuance.
 - **Book Issuance Tracking**: Keeps accurate records of book loans, improving the efficiency of library operations.
 
-This system streamlines library management tasks, enhances the user experience, and maintains accurate records of all transactions.
+This system streamlines library management tasks, enhances the user experience, and maintains accurate records of all transactions and updates database in realtime.
